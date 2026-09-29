@@ -1,0 +1,20 @@
+PHOTO SOURCES · hs-061-brackin Brackin Concrete (Wave 13 2026-09-29 PT)
+All CC0 / public domain (Wikimedia Commons CC0/PD, Flickr CC0/PDM, rawpixel CC0, StockSnap CC0, WordPress Photos CC0) or prior verified Wave library.
+New Wave 13 files: see builds/_assets_dl/wave13/LICENSES.md for source URLs and licenses.
+Every file opened and checked for trade fit and job-label fit. No face is used or captioned as the owner or crew.
+Sample B/A photos are labeled on page as stock images typical of this kind of job.
+
+hero-site.jpg <- wave13/conc-pour-forms.jpg : Crew placing and leveling concrete inside forms, worker seen from behind (flickr Public Domain Mark 1.0 https://www.flickr.com/photos/38890715@N08/52718959112)
+services-trade.jpg <- wave13/conc-edge-close.jpg : Edge of freshly poured concrete, close-up (wikimedia CC0 1.0 https://commons.wikimedia.org/w/index.php?curid=146578606)
+people-crew.jpg <- wave13/conc-footing-pour.jpg : Concrete pumped into footing forms at a new building, crew at a distance (wikimedia Public domain https://commons.wikimedia.org/wiki/File:Pouring_Concrete_for_New_Office_Footing_(4887860809).jpg)
+people-marek.jpg <- wave13/conc-floor-poured.jpg : Freshly poured concrete floor in a lower level (flickr Public Domain Mark 1.0 https://www.flickr.com/photos/57873306@N00/2557127741)
+people-tom.jpg <- wave13/conc-foundation-site.jpg : New concrete foundation walls at a construction site (flickr CC0 1.0 https://www.flickr.com/photos/44034762@N04/49713921722)
+coverage-house.jpg <- wave12/house-ranch-lawn.jpg : Single-story ranch home with a lawn, street view (wikimedia Public domain https://commons.wikimedia.org/wiki/File:HouseII2007.jpg)
+conc-footing-set.jpg <- wave13/conc-footing-set.jpg : Footing forms and steel set in an excavation before the pour, crew at a distance (wikimedia Public domain https://commons.wikimedia.org/wiki/File:Pouring_concrete_into_the_forms_(8a77dcc0-1dd8-b71c-07b4-cf1eee68f602).JPG)
+conc-foundation-done.jpg <- wave13/conc-foundation-done.jpg : Finished concrete foundation on a cleared lot, seen from above (wikimedia CC0 1.0 https://commons.wikimedia.org/w/index.php?curid=191153184)
+conc-wall-old.jpg <- wave13/conc-wall-old.jpg : Old, stained wall holding back a slope (wikimedia CC0 1.0 https://commons.wikimedia.org/w/index.php?curid=149920285)
+conc-wall-new.jpg <- wave13/conc-wall-new.jpg : New concrete wall set along a cut in the ground (flickr Public Domain Mark 1.0 https://www.flickr.com/photos/42009447@N05/14458911463)
+conc-old-out.jpg <- wave13/conc-old-out.jpg : Old concrete broken out and stacked, ground cleared for new concrete (wikimedia CC0 1.0 https://commons.wikimedia.org/w/index.php?curid=89507690)
+conc-new-apron.jpg <- wave13/conc-new-apron.jpg : Finished concrete in front of garage doors (stocksnap CC0 1.0 https://stocksnap.io/photo/garagedoors-driveway-27A311B359)
+
+Note: New trade (concrete): wave13 set. Hero crew seen from behind; wide shots keep crews at a distance. Services exactly as the Facebook intro names them (truncated after retaining walls; nothing added). The packet's Coming Soon domain and the unrelated out-of-state same-name LLC are NOT used or linked.
